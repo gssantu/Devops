@@ -16,4 +16,4 @@
 2019-04-18 00:11:10,418 INFO [12] WarningSupressionCheck.CoreLog.Info - C:\Automation\EpidemiologyTestScripts\src\com\test\epidemiology\businessfunctions\ORUMessages.javawarning supressed
 2019-04-18 00:11:10,419 INFO [12] WarningSupressionCheck.CoreLog.Info - C:\Automation\EpidemiologyTestScripts\src\cotwete\epidemiology\tests\restassured\IOJson.javawarning supressed
 2019-04-18 00:11:10,420 FATAL [12] WarningSupressionCheck.CoreLog.Error - test
-First 
+Firstsecond 
